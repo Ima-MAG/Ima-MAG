@@ -32,7 +32,7 @@
 
 ### Programming Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,cpp,cs,java,js,php)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php)](https://skillicons.dev)
 
 ### Frontend Development
 
